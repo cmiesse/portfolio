@@ -1,0 +1,84 @@
+Assyst
+*****************************
+<p>L'EPHEC a reçu  Assyt Europe qui nous a parlé de leur entreprise ainsi que de leurs stage.<br>
+        Assyst se situe à Braine-l'Alleud, Avenue du Japon 1.
+        Elle existe depuis 15 ans et elle offre des infrastructures informatiques avec les dernières technologies de pointes.<br>
+        Ils sont spécialisés en infrastructure et infogérance, cybersécurité, VoIP, cloud, IA.<br>
+        De plus, Assyst et Mme Noiset nous a rassuré quant à la faisabilité des stages par rapport à nos compétences actuelles. <br>
+        Enfin, leurs stages présentés étaient les suivants :
+        <ul>
+          <li>La conception et réalisation d'une interface IoT de géolocalisation pour une intelligence artificielle</li>
+          <li>La sécurisation au moyen de l'intelligence artificielle d'un environnelent BYOD en utilisant Microsoft Office365/Azure</li>
+        </ul>
+        <img src="../IMG/assyst.jpg" class="paysage" alt="">
+      </p>
+
+
+-------------------------------
+Azure
+************************
+<p>Nous avons découvert Azure lors de cette journée. <br>
+        D'abord des explications de ce qu'est Azure et ses fonctionnalités.<br>
+       Puis nous avons utilisé celui-ci avec les outils logiciels suivants (Visual Studio, Visual Studio Code et Postman) grace au
+       <a href="https://github.com/micbelgique/AzureGettingStarted">répertoire Github qui nous a été passé</a>.</p>
+---------------------------------------
+csc
+***************
+<p>Nous avons été présenté au Cyber Security Challenge. Il s'agit d'une compétition par équipe de maximum 4 sur le sujet de la Cybersécurité. Elle existe depuis 2015.<br>
+      La première manche se fait en ligne du 13 au 14 mars 2019. Il s'agit de résoudre différents défis pour gagne des points.<br>
+      Les meilleurs participants vont en finale internationale à Bruxelles du 29 au 30 mars 2019.<br><br>
+      <img src="../IMG/CSC/facebookcsc.JPG" alt=""><br>
+      <a href="https://www.cybersecuritychallenge.be/">Lien vers le site de l'événement</a>
+------------------------
+devday
+************************
+<p>
+        Le Devday 2019 s'est déroulé au cinéscope de Louvain-la-Neuve.<br>
+        Nous avons commencé par une conférence sur l'intelligence artificielle, un pas de plus vers le l'ambiant computing à 8h40 en salle 7. <br>
+        Puis, nous pouvions assisté à 6 conférences au choix réparties en 4 salles ( soit 24 conférences).<br>
+        Premièrement, j'ai assité à la conférence Goodbye Javascript ? Hello .NET.<br>
+        Deuxièmement, j'ai assisté à "Les Design Patterns en C#" suite à son inversion avec la conférence de 15h45 dans le planning.<br>
+        Troisièmement, j'ai assisté au "Rtour d'expérience Angular Universal/ASP .NET Core/ Azure Devops".<br>
+        Quatrièmement, j'ai assisté au Live Coding: 60 minutes de bonheur en React. <br>
+        Cinquièmement, j'ai assisté à Repoussez les limites du Web avec WebAssembly. <br>
+        Enfin, j'ai assisté à "Visual Studio versus VS Code - Lequel est le plus Badass ?".<br>
+        <img src="../IMG/Autre/preuveDevday.jpg"  class="paysage" alt="">
+        <img src="../IMG/Autre/DevdayIntro.jpg"  class="paysage" alt="">
+        <img src="../IMG/Autre/Devdayjs.jpg"  class="paysage" alt="">
+        <img src="../IMG/Autre/DevdayReact.jpg"  class="paysage" alt="">
+        <img src="../IMG/Autre/DevdayVS.jpg"  class="paysage" alt="">
+      </p>
+-----------------------------
+git
+****************
+<p>Nous avons suivi la formation Git de Louvain-linux au local de DAO de l'UCLouvain.<br>
+        Nous avons appris Git et son utilisation à travers l'utilisation de Github Desktop.
+      </p>
+--------------------------------
+latex
+***********************
+<p>La formation LaTex nous a été donné par Louvain-linux au local de CANDIX de l'UCLouvain.
+        Nous avons appris grâce à la théorie des slides projetés et de pratique sur le site Overleaf, éditeur de documents en LaTeX.
+        Ce langage permet d'écrire de très beaux documents scolaires, professionnels et scientifiques.
+      </p>
+------------------------------------
+malte
+*******************
+<p>Nous sommes partis à Malte dans la région de la Valette pendant 3 jours.<br>
+        Le départ était le lundi soir du 23 septembre 2019 à l'aéroport de Bruxelles-Sud/Charleroi.<br>
+        Le mardi soir, nous sommes allés au restaurant Piccolo Padre Trattoria à Sliema.<br>
+        Le mercredi matin, nous avons visité la MCAST (Malta College of Arts, Sciences and Technoly) et son campus.
+        Là-bas, nous avons suivi une présentation de Malte et son économie.<br>
+        L'après-midi, l'entreprise PwC nous a reçu pour nous parlé de sécurité informatique dans les entreprises.<br>
+        Pour le dernier jour, nous sommes allés au International Language Centres de EF à St Julians,
+        ils nous ont expliqué l'importance de l'anglais à Malte et le monde du travail à Malte.
+      </p>
+
+------------------------------
+speed dating
+******************
+<p>Lors de ce "speed dating", nous avons été divisé en groupe pour passer de table en table par rapport à des thèmes de stages.<br>
+        Les étudiants de troisième année de bachelier en Technologie de l'informatique nous expliquaient leurs stages effectués en entreprise.
+      </p>
+
+-----------------------------
